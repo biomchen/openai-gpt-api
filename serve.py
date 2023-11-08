@@ -12,7 +12,7 @@ async def check_health():
     return {"response": "healthy"}
 
 # post
-@app.post("/GPT-3.5/", response_model=OutputData)
+@app.post("/GPT/", response_model=OutputData)
 async def get_response(request: Request, input_data: InputData):
     prompt = input_data.prompt
     response = server.get_chat_response(prompt)
