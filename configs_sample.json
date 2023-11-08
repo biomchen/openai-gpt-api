@@ -1,0 +1,5 @@
+{   
+    "model": "OPENAI_GPT_MODEL_NAME",
+    "api_key": "OPENAI_API_KEY",
+    "version": "API_VERSION"
+}
