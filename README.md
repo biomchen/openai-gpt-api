@@ -2,7 +2,7 @@
 
 Serve Openai GPT models locally for integration with frontend development
 <p float="left">
-    <img width=200 alt="figure 2" src="https://github.com/biomchen/openai-gpt-serving-api/assets/45435029/dfa94baa-ee55-4c8a-98ca-2b8fe93cd4bf" />
+    <img width=500 alt="figure 2" src="https://github.com/biomchen/openai-gpt-serving-api/assets/45435029/dfa94baa-ee55-4c8a-98ca-2b8fe93cd4bf" />
 </p>
 
 
