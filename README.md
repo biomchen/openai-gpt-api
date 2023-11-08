@@ -20,7 +20,7 @@ Serve Openai GPT models locally for integration with frontend development
     ```sh
     pip isntall -r requirements.txt
     ```
-x. Run the cmd in the terminal
+5. Run the cmd in the terminal
     ```sh
     uvicorn serve:app --host 0.0.0.0 --port YOUR_DESIGNATED_PORT
     ```
